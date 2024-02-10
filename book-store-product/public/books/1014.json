@@ -1,0 +1,10 @@
+{
+  "id": 1014,
+  "price": 12.99,
+  "genre": "Science Fiction",
+  "author": "Orson Scott Card",
+  "title": "Ender's Game",
+  "description": "A military science fiction novel that follows gifted child strategist Ender Wiggin as he trains in a battle school to prepare for an impending alien invasion.",
+  "cover": "https://m.media-amazon.com/images/I/51hzQWwImUL.jpg",
+  "keywords": ["military science fiction", "gifted child strategist", "battle school", "alien invasion"]
+}

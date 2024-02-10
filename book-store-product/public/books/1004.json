@@ -1,0 +1,10 @@
+{
+  "id": 1004,
+  "price": 7.99,
+  "genre": "Mystery/Thriller",
+  "author": "Liane Moriarty",
+  "title": "Big Little Lies",
+  "description": "A suspenseful novel set in a tranquil seaside town, where secrets and lies among a group of mothers lead to a tragic event.",
+  "cover": "https://m.media-amazon.com/images/I/51oEjWgMHuL.jpg",
+  "keywords": ["suspenseful", "seaside town", "secrets", "lies", "tragic event"]
+}

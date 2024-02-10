@@ -1,0 +1,10 @@
+{
+  "id": 1005,
+  "price": 11.99,
+  "genre": "Mystery/Thriller",
+  "author": "Alex Michaelides",
+  "title": "The Silent Patient",
+  "description": "A psychological thriller featuring a woman who hasn't spoken since she allegedly murdered her husband, and the psychotherapist determined to uncover the truth.",
+  "cover": "https://m.media-amazon.com/images/I/515SxVllQJS.jpg",
+  "keywords": ["psychological thriller", "woman", "mute", "murder", "psychotherapist"]
+}

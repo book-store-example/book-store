@@ -1,0 +1,36 @@
+{
+  "book_title": "Gone Girl",
+  "id": 1002,
+  "reviews": [
+    {
+      "review_id": 1,
+      "reviewer_name": "Alice Smith",
+      "rating": 5,
+      "review_text": "Mind-blowing! Gillian Flynn weaves a twisted tale that keeps you guessing until the very end. The characters are complex, the plot is unpredictable, and the writing is superb. A must-read for thriller fans!"
+    },
+    {
+      "review_id": 2,
+      "reviewer_name": "John Doe",
+      "rating": 4,
+      "review_text": "A gripping psychological thriller that kept me hooked from start to finish. The alternating perspectives added depth to the story, and the unexpected twists kept me on the edge of my seat."
+    },
+    {
+      "review_id": 3,
+      "reviewer_name": "Emily Johnson",
+      "rating": 3,
+      "review_text": "Found the first half of the book engaging, but the plot lost momentum in the second half. The ending felt rushed and somewhat unsatisfying. Still worth a read for fans of the genre."
+    },
+    {
+      "review_id": 4,
+      "reviewer_name": "David Brown",
+      "rating": 5,
+      "review_text": "Wow! Just wow! Gillian Flynn is a master of suspense. The unreliable narrators and intricate plot kept me guessing until the very end. This book is a rollercoaster ride of emotions - I couldn't put it down!"
+    },
+    {
+      "review_id": 5,
+      "reviewer_name": "Sophia Martinez",
+      "rating": 2,
+      "review_text": "Disappointing. The characters were unlikeable, and the plot twists felt contrived. I struggled to stay engaged and found myself skimming through parts of the book."
+    }
+  ]
+}

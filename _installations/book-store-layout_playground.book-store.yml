@@ -1,0 +1,13 @@
+kind: installation
+id: 65b92fcda020246415bba1eb
+packageName: '@playground/book-store-layout'
+packageTag: 1.0.0.99858d10
+projectDomain: playground.book-store
+configuration: |
+  {
+  "navbarColor": "red"
+  }
+enabled: true
+activation:
+  type: urlTree
+  matches: /

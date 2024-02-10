@@ -1,0 +1,54 @@
+{
+  "book_title": "The Hunger Games",
+  "id": 1015,
+  "reviews": [
+    {
+      "review_id": 1,
+      "reviewer_name": "Alice Smith",
+      "rating": 5,
+      "review_text": "A gripping dystopian tale that will keep you on the edge of your seat! Suzanne Collins' 'The Hunger Games' is a riveting story of survival, sacrifice, and rebellion. The characters are compelling, the action is intense, and the social commentary is thought-provoking."
+    },
+    {
+      "review_id": 2,
+      "reviewer_name": "John Doe",
+      "rating": 4,
+      "review_text": "An adrenaline-fueled adventure that explores themes of power, inequality, and resilience. 'The Hunger Games' is a captivating read that offers both thrills and food for thought. Suzanne Collins' world-building is immersive, and her characters are unforgettable."
+    },
+    {
+      "review_id": 3,
+      "reviewer_name": "Emily Johnson",
+      "rating": 5,
+      "review_text": "Absolutely brilliant! 'The Hunger Games' is a modern classic that transcends age and genre. Suzanne Collins' storytelling is masterful, weaving together action, romance, and social commentary in a way that's both entertaining and thought-provoking."
+    },
+    {
+      "review_id": 4,
+      "reviewer_name": "David Brown",
+      "rating": 5,
+      "review_text": "An emotionally charged and thought-provoking read. 'The Hunger Games' is a gripping tale of courage and survival in the face of oppression. Suzanne Collins' portrayal of a dystopian society is chillingly realistic, and her characters are complex and relatable."
+    },
+    {
+      "review_id": 5,
+      "reviewer_name": "Sophia Martinez",
+      "rating": 4,
+      "review_text": "A thrilling and action-packed ride from start to finish! 'The Hunger Games' is a captivating story of rebellion and resilience that will leave you breathless. Suzanne Collins' vivid prose and dynamic characters make this a must-read for fans of dystopian fiction."
+    },
+    {
+      "review_id": 6,
+      "reviewer_name": "Daniel Wilson",
+      "rating": 4,
+      "review_text": "A compelling and suspenseful read that explores themes of power, sacrifice, and morality. 'The Hunger Games' is a thought-provoking dystopian novel that raises important questions about society and humanity. Suzanne Collins' writing is gripping and immersive."
+    },
+    {
+      "review_id": 7,
+      "reviewer_name": "Emma Thompson",
+      "rating": 5,
+      "review_text": "A gripping and emotionally resonant story that will stay with you long after you've finished reading. 'The Hunger Games' is a powerful exploration of survival, sacrifice, and the human spirit. Suzanne Collins' writing is captivating, drawing you into a world of danger and rebellion."
+    },
+    {
+      "review_id": 8,
+      "reviewer_name": "Michael Smith",
+      "rating": 5,
+      "review_text": "An instant classic! 'The Hunger Games' is a thrilling and thought-provoking novel that captivates readers from the very first page. Suzanne Collins' dystopian world is vividly realized, and her characters are complex and compelling. A must-read for anyone who loves a gripping story."
+    }
+  ]
+}

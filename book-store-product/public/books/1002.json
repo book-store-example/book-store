@@ -1,0 +1,10 @@
+{
+  "id": 1002,
+  "price": 8.79,
+  "genre": "Mystery/Thriller",
+  "author": "Gillian Flynn",
+  "title": "Gone Girl",
+  "description": "A psychological thriller revolving around the mysterious disappearance of Amy Dunne and the subsequent media frenzy and suspicions surrounding her husband Nick.",
+  "cover": "https://m.media-amazon.com/images/I/41x6HtLdEhL.jpg",
+  "keywords": ["psychological", "disappearance", "media frenzy", "suspicions"]
+}

@@ -1,0 +1,10 @@
+{
+  "id": 1001,
+  "price": 9.99,
+  "genre": "Mystery/Thriller",
+  "author": "Stieg Larsson",
+  "title": "The Girl with the Dragon Tattoo",
+  "description": "A gripping mystery that follows journalist Mikael Blomkvist and hacker Lisbeth Salander as they investigate a decades-old disappearance.",
+  "cover": "https://m.media-amazon.com/images/I/518UXjrLGGL.jpg",
+  "keywords": ["mystery", "journalist", "investigate", "disappearance"]
+}

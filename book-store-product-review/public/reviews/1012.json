@@ -1,0 +1,54 @@
+{
+  "book_title": "The Martian",
+  "id": 1012,
+  "reviews": [
+    {
+      "review_id": 1,
+      "reviewer_name": "Alice Smith",
+      "rating": 5,
+      "review_text": "Absolutely riveting! Andy Weir's 'The Martian' is a thrilling and ingenious survival story set on the Red Planet. Mark Watney's resourcefulness and humor make him an unforgettable protagonist. Couldn't put it down!"
+    },
+    {
+      "review_id": 2,
+      "reviewer_name": "John Doe",
+      "rating": 4,
+      "review_text": "An adrenaline-fueled adventure that keeps you on the edge of your seat. 'The Martian' is a gripping tale of resilience and human ingenuity. Andy Weir's attention to scientific detail adds authenticity to the story."
+    },
+    {
+      "review_id": 3,
+      "reviewer_name": "Emily Johnson",
+      "rating": 4,
+      "review_text": "Engaging and thought-provoking! 'The Martian' blends science fiction with humor and heart in a way that's both entertaining and educational. Mark Watney's determination to survive against all odds is truly inspiring."
+    },
+    {
+      "review_id": 4,
+      "reviewer_name": "David Brown",
+      "rating": 5,
+      "review_text": "A gripping page-turner that will leave you breathless! Andy Weir's meticulous research and sharp wit shine through in 'The Martian.' The combination of suspense, humor, and scientific accuracy makes it a standout in the sci-fi genre."
+    },
+    {
+      "review_id": 5,
+      "reviewer_name": "Sophia Martinez",
+      "rating": 5,
+      "review_text": "Absolutely brilliant! 'The Martian' is a thrilling and heartwarming tale of human perseverance. Andy Weir's writing is both entertaining and informative, and Mark Watney's humor adds levity to an otherwise dire situation."
+    },
+    {
+      "review_id": 6,
+      "reviewer_name": "Daniel Wilson",
+      "rating": 4,
+      "review_text": "A captivating and suspenseful read! 'The Martian' is a masterclass in survival fiction, with Mark Watney's resourcefulness and wit keeping you hooked from start to finish. Andy Weir's attention to detail is commendable."
+    },
+    {
+      "review_id": 7,
+      "reviewer_name": "Emma Thompson",
+      "rating": 4,
+      "review_text": "Thrilling and suspenseful! 'The Martian' is a rollercoaster ride of emotions, with moments of tension, humor, and triumph. Andy Weir's storytelling is gripping, and Mark Watney's character is both relatable and inspiring."
+    },
+    {
+      "review_id": 8,
+      "reviewer_name": "Michael Smith",
+      "rating": 5,
+      "review_text": "An absolute must-read! 'The Martian' is a gripping and realistic portrayal of survival on Mars. Andy Weir's attention to scientific accuracy and Mark Watney's resilience make this a truly unforgettable story."
+    }
+  ]
+}

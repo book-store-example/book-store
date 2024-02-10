@@ -1,0 +1,36 @@
+{
+  "book_title": "Pride and Prejudice",
+  "id": 1006,
+  "reviews": [
+    {
+      "review_id": 1,
+      "reviewer_name": "Emily Johnson",
+      "rating": 5,
+      "review_text": "A timeless classic! Jane Austen's wit and keen observation of human nature shine in this novel. The characters are beautifully drawn, and the romance is both charming and thought-provoking. A must-read for literature lovers!"
+    },
+    {
+      "review_id": 2,
+      "reviewer_name": "David Smith",
+      "rating": 4,
+      "review_text": "An enchanting story with unforgettable characters. The social commentary woven into the narrative is as relevant today as it was when the book was first published. Highly recommend for those who appreciate romance and satire."
+    },
+    {
+      "review_id": 3,
+      "reviewer_name": "Sophia Martinez",
+      "rating": 3,
+      "review_text": "Enjoyable, but not my favorite Austen novel. While I appreciated the humor and the social critique, I found some parts to be slow-paced. Nonetheless, Elizabeth Bennet is a captivating protagonist."
+    },
+    {
+      "review_id": 4,
+      "reviewer_name": "Daniel Wilson",
+      "rating": 5,
+      "review_text": "Absolutely delightful! Pride and Prejudice is a masterpiece of wit and romance. Jane Austen's prose is elegant and engaging, and the love story between Elizabeth and Mr. Darcy is iconic. A book that I'll cherish forever."
+    },
+    {
+      "review_id": 5,
+      "reviewer_name": "Emma Thompson",
+      "rating": 4,
+      "review_text": "Classic literature at its finest! While the societal norms depicted may feel outdated, the themes of love, pride, and societal expectations are timeless. Jane Austen's keen observations of human behavior make this a compelling read."
+    }
+  ]
+}

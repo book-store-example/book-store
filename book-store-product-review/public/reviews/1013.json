@@ -1,0 +1,54 @@
+{
+  "book_title": "Neuromancer",
+  "id": 1013,
+  "reviews": [
+    {
+      "review_id": 1,
+      "reviewer_name": "Alice Smith",
+      "rating": 5,
+      "review_text": "A groundbreaking masterpiece! William Gibson's 'Neuromancer' is a visionary work that paved the way for cyberpunk literature. The vivid imagery, complex characters, and intricate plot make it a must-read for fans of science fiction."
+    },
+    {
+      "review_id": 2,
+      "reviewer_name": "John Doe",
+      "rating": 4,
+      "review_text": "An immersive dive into a dystopian future. 'Neuromancer' is a thrilling ride through a world where technology and humanity collide. William Gibson's prose is both evocative and thought-provoking."
+    },
+    {
+      "review_id": 3,
+      "reviewer_name": "Emily Johnson",
+      "rating": 4,
+      "review_text": "Intriguing and atmospheric! 'Neuromancer' offers a glimpse into a dark and gritty future where hackers and cyberspace cowboys roam the digital landscape. William Gibson's vision of the future is both chilling and captivating."
+    },
+    {
+      "review_id": 4,
+      "reviewer_name": "David Brown",
+      "rating": 5,
+      "review_text": "A cyberpunk classic that remains as relevant today as when it was first published. 'Neuromancer' is a mind-bending journey into the depths of cyberspace, with William Gibson's unparalleled imagination guiding the way."
+    },
+    {
+      "review_id": 5,
+      "reviewer_name": "Sophia Martinez",
+      "rating": 5,
+      "review_text": "Absolutely mind-blowing! 'Neuromancer' is a gripping blend of science fiction and noir, with a protagonist who's as flawed as he is compelling. William Gibson's world-building is second to none, immersing you in a future that feels both familiar and alien."
+    },
+    {
+      "review_id": 6,
+      "reviewer_name": "Daniel Wilson",
+      "rating": 4,
+      "review_text": "A mesmerizing journey through the underbelly of cyberspace. 'Neuromancer' is a thought-provoking exploration of technology, identity, and power. William Gibson's writing is sharp and immersive, pulling you into a world that's both thrilling and terrifying."
+    },
+    {
+      "review_id": 7,
+      "reviewer_name": "Emma Thompson",
+      "rating": 4,
+      "review_text": "A gripping and atmospheric cyberpunk adventure. 'Neuromancer' immerses you in a dark and gritty future where hackers and corporations battle for control. William Gibson's vision of the future feels eerily prescient, making this a must-read for fans of the genre."
+    },
+    {
+      "review_id": 8,
+      "reviewer_name": "Michael Smith",
+      "rating": 5,
+      "review_text": "An absolute must-read for any fan of science fiction! 'Neuromancer' is a groundbreaking novel that set the standard for cyberpunk literature. William Gibson's prose is electrifying, and his vision of the future is both exhilarating and terrifying."
+    }
+  ]
+}

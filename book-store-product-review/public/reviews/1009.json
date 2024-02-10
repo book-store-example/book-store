@@ -1,0 +1,30 @@
+{
+  "book_title": "The Notebook",
+  "id": 1009,
+  "reviews": [
+    {
+      "review_id": 1,
+      "reviewer_name": "Alice Smith",
+      "rating": 5,
+      "review_text": "A beautiful and heartwarming love story! Nicholas Sparks has a way of capturing the essence of romance that leaves you feeling warm and fuzzy inside. The characters are endearing, and the emotional depth of the story is truly moving."
+    },
+    {
+      "review_id": 2,
+      "reviewer_name": "John Doe",
+      "rating": 4,
+      "review_text": "A touching tale of love and devotion. Nicholas Sparks crafts a poignant narrative that explores the enduring power of true love. The Notebook is a reminder that love knows no bounds and can withstand the test of time."
+    },
+    {
+      "review_id": 3,
+      "reviewer_name": "Emily Johnson",
+      "rating": 3,
+      "review_text": "Enjoyable, but somewhat predictable. While I appreciated the emotional depth of the story, I found some parts to be overly sentimental. Nonetheless, it's a heartwarming read that will leave you reaching for tissues."
+    },
+    {
+      "review_id": 4,
+      "reviewer_name": "David Brown",
+      "rating": 5,
+      "review_text": "An emotional rollercoaster that will tug at your heartstrings! Nicholas Sparks weaves a tender and heartfelt narrative that stays with you long after you finish reading. The Notebook is a timeless classic that reaffirms the power of love."
+    }
+  ]
+}

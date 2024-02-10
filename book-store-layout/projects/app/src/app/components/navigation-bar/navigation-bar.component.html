@@ -1,0 +1,13 @@
+<header class="navbar navbar-expand navbar-dark px-4 flex-column flex-md-row" [ngClass]="colorClass" >
+  <a aria-label="BookStore" class="navbar-brand" href="/">
+    <img [src]="logo" style="width: 66px; top: -4px" class="position-absolute d-none d-md-inline-block" alt="logo"/>
+    <div class="d-none d-md-inline-block" style="padding-left: 76px"></div>
+    <h2 class="d-inline m-2 title">Book<span class="opacity-75">Store</span></h2>
+  </a>
+  <span class="nav-item text-white d-none d-md-inline-block">|</span>
+  <div class="navbar-nav-scroll">
+    <fusionize-mount-place location="navigation-bar-start"></fusionize-mount-place>
+  </div>
+  <span class="spacer"></span>
+  <fusionize-mount-place location="navigation-bar-end"></fusionize-mount-place>
+</header>

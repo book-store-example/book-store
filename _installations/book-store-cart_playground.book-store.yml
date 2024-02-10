@@ -1,0 +1,10 @@
+kind: installation
+id: 65befce856834c14795d870e
+packageName: '@playground/book-store-cart'
+packageTag: 1.0.0.8f21d011
+projectDomain: playground.book-store
+configuration: '{}'
+enabled: true
+activation:
+  type: urlTree
+  matches: /

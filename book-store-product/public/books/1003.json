@@ -1,0 +1,10 @@
+{
+  "id": 1003,
+  "price": 8.99,
+  "genre": "Mystery/Thriller",
+  "author": "Dan Brown",
+  "title": "The Da Vinci Code",
+  "description": "A fast-paced mystery thriller where symbologist Robert Langdon unravels clues across Europe to solve a murder and uncover a centuries-old secret.",
+  "cover": "https://m.media-amazon.com/images/I/51riEVXta5L.jpg",
+  "keywords": ["mystery", "symbologist", "Europe", "murder", "centuries-old secret"]
+}

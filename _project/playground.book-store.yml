@@ -1,0 +1,9 @@
+kind: project
+id: 65b92529a020246415bba1e2
+description: Book Store
+name: Book Store
+domain: playground.book-store
+mount: <html><head></head><body></body></html>
+destinations:
+  - url: "https://book-store-example.github.io/"
+    active: true

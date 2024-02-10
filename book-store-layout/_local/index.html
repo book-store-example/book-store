@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="fusionize" key="5aedf71a73074aed949c0a8e010e3397">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <script src="https://cdn.jsdelivr.net/npm/zone.js@0.11.3/dist/zone.min.js"></script>
+    <script type="systemjs-importmap">
+    {
+      "imports": {
+        "@playground/book-store-layout":"http://localhost:4200/main.js"
+      }
+    }
+  </script>
+
+</head>
+<body>
+<main></main>
+<script>
+    import("https://cdn.jsdelivr.net/npm/@fusionize/fusionize-starter@1.1.1/index.min.js").then(module => {
+        module.start();
+    });
+</script>
+</body>
+</html>

@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="fusionize" key="303d06c6dd3b4c218b6cd75540698744">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta http-equiv="Content-Security-Policy" content="default-src 'self' https: localhost:*; script-src 'unsafe-inline' 'unsafe-eval' https: localhost:*; connect-src https: localhost:* ws://localhost:*; style-src 'unsafe-inline' https:; object-src 'none';">
+    <script src="https://cdn.jsdelivr.net/npm/zone.js@0.11.3/dist/zone.min.js"></script>
+    <script type="systemjs-importmap">
+    {
+      "imports": {
+        "@playground/book-store-cart":"http://localhost:8082/main.js",
+        "react" :"https://cdn.jsdelivr.net/npm/react@17.0.2/umd/react.development.min.js",
+        "react-dom":"https://cdn.jsdelivr.net/npm/react-dom@17.0.2/umd/react-dom.development.min.js"
+      }
+    }
+  </script>
+
+</head>
+<body>
+<main></main>
+<script>
+    import("https://cdn.jsdelivr.net/npm/@fusionize/fusionize-starter@1.1.1/index.min.js").then(module => {
+        module.start();
+    });
+</script>
+</body>
+</html>

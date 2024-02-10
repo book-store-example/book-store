@@ -1,0 +1,10 @@
+{
+  "id": 1015,
+  "price": 6.75,
+  "genre": "Science Fiction",
+  "author": "Suzanne Collins",
+  "title": "The Hunger Games",
+  "description": "A dystopian novel set in a future society where teenagers are forced to participate in a televised fight to the death, as Katniss Everdeen fights for survival and rebellion.",
+  "cover": "https://m.media-amazon.com/images/I/51vOc7NtICL.jpg",
+  "keywords": ["dystopian", "future society", "teenagers", "televised fight", "survival", "rebellion"]
+}

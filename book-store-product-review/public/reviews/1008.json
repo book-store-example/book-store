@@ -1,0 +1,30 @@
+{
+  "book_title": "Me Before You",
+  "id": 1008,
+  "reviews": [
+    {
+      "review_id": 1,
+      "reviewer_name": "Alice Smith",
+      "rating": 5,
+      "review_text": "Absolutely heartwrenching! Jojo Moyes beautifully captures the complexities of love, loss, and human connection in this emotionally charged novel. The characters are unforgettable, and the story will stay with you long after you finish reading."
+    },
+    {
+      "review_id": 2,
+      "reviewer_name": "John Doe",
+      "rating": 4,
+      "review_text": "A poignant and thought-provoking read. Jojo Moyes tackles difficult subjects with sensitivity and grace. The relationship between Louisa and Will is beautifully developed, and the ending left me in tears."
+    },
+    {
+      "review_id": 3,
+      "reviewer_name": "Emily Johnson",
+      "rating": 3,
+      "review_text": "Mixed feelings about this one. While I found the premise intriguing, I struggled with some aspects of the plot. The pacing felt uneven at times, and certain characters lacked depth. Nonetheless, it's worth a read for the exploration of difficult ethical dilemmas."
+    },
+    {
+      "review_id": 4,
+      "reviewer_name": "David Brown",
+      "rating": 5,
+      "review_text": "A powerful and moving story that will stay with you long after you turn the final page. Jojo Moyes writes with compassion and insight, creating characters that feel incredibly real. Me Before You is a must-read for anyone who enjoys a good cry."
+    }
+  ]
+}

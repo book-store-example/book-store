@@ -1,0 +1,10 @@
+kind: installation
+id: 65bde1d52d4aac5133a7bfad
+packageName: '@playground/book-store-product-list'
+packageTag: 1.0.0.edc518af
+projectDomain: playground.book-store
+configuration: '{}'
+enabled: true
+activation:
+  type: ant
+  matches: /books

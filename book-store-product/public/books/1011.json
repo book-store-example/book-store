@@ -1,0 +1,10 @@
+{
+  "id": 1011,
+  "price": 6.99,
+  "genre": "Science Fiction",
+  "author": "Frank Herbert",
+  "title": "Dune",
+  "description": "A sweeping science fiction epic set in a distant future where noble houses battle for control over a desert planet called Arrakis, known for its valuable spice.",
+  "cover": "https://m.media-amazon.com/images/I/517+uE+Ek2L.jpg",
+  "keywords": ["sweeping", "science fiction epic", "distant future", "noble houses", "Arrakis"]
+}

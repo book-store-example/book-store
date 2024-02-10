@@ -1,0 +1,54 @@
+{
+  "book_title": "Ender's Game",
+  "id": 1014,
+  "reviews": [
+    {
+      "review_id": 1,
+      "reviewer_name": "Alice Smith",
+      "rating": 5,
+      "review_text": "A sci-fi classic! Orson Scott Card's 'Ender's Game' is a thrilling and thought-provoking story of survival and sacrifice. The character development is exceptional, and the twists and turns keep you guessing until the very end."
+    },
+    {
+      "review_id": 2,
+      "reviewer_name": "John Doe",
+      "rating": 4,
+      "review_text": "An intense and gripping read. 'Ender's Game' is a captivating blend of action, strategy, and moral dilemmas. Orson Scott Card creates a vivid and immersive world that stays with you long after you've finished the book."
+    },
+    {
+      "review_id": 3,
+      "reviewer_name": "Emily Johnson",
+      "rating": 5,
+      "review_text": "Absolutely mesmerizing! 'Ender's Game' is a masterclass in science fiction storytelling. Orson Scott Card's exploration of war, leadership, and morality is both thrilling and deeply thought-provoking."
+    },
+    {
+      "review_id": 4,
+      "reviewer_name": "David Brown",
+      "rating": 5,
+      "review_text": "A captivating and emotionally resonant tale. 'Ender's Game' delves into the complexities of human nature and the consequences of our actions. Orson Scott Card's writing is both compelling and evocative."
+    },
+    {
+      "review_id": 5,
+      "reviewer_name": "Sophia Martinez",
+      "rating": 4,
+      "review_text": "A thrilling adventure that keeps you on the edge of your seat. 'Ender's Game' is a fast-paced and action-packed read that raises thought-provoking questions about power, identity, and empathy."
+    },
+    {
+      "review_id": 6,
+      "reviewer_name": "Daniel Wilson",
+      "rating": 4,
+      "review_text": "An engaging and thought-provoking sci-fi novel. 'Ender's Game' explores complex themes of morality, leadership, and the consequences of our actions. Orson Scott Card's world-building is impressive, and the character development is compelling."
+    },
+    {
+      "review_id": 7,
+      "reviewer_name": "Emma Thompson",
+      "rating": 5,
+      "review_text": "A must-read for any fan of science fiction! 'Ender's Game' is a gripping and emotionally resonant story that stays with you long after you've turned the last page. Orson Scott Card's exploration of humanity and war is both insightful and compelling."
+    },
+    {
+      "review_id": 8,
+      "reviewer_name": "Michael Smith",
+      "rating": 5,
+      "review_text": "An instant classic! 'Ender's Game' is a riveting and thought-provoking novel that challenges readers to question the nature of war, leadership, and morality. Orson Scott Card's storytelling is masterful, creating a world that feels both familiar and alien."
+    }
+  ]
+}

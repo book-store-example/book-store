@@ -1,0 +1,10 @@
+{
+  "id": 1006,
+  "price": 11.99,
+  "genre": "Romance",
+  "author": "Jane Austen",
+  "title": "Pride and Prejudice",
+  "description": "A classic romance novel that follows the tumultuous relationship between the independent Elizabeth Bennet and the proud Mr. Darcy in 19th-century England.",
+  "cover": "https://m.media-amazon.com/images/I/61otuS47knL.jpg",
+  "keywords": ["romance", "relationship", "independent", "pride", "19th-century England"]
+}

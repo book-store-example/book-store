@@ -1,0 +1,41 @@
+key: "5aedf71a73074aed949c0a8e010e3397"
+name: "from ./package.json"
+version: "from ./package.json"
+cover: null
+framework: angular-14.2
+dist:
+  - type: "main"
+    path: "./dist/app/main.js"
+assets: "./dist/app/assets"
+configSchema: |
+  {
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "type": "object",
+    "title": "ConfigurationSchema",
+    "properties": {},
+    "required": []
+  }
+hostMount: |
+  <html>
+  <head></head>
+  <body></body>
+  </html>
+localInstallation:
+  hostApp: blank
+  baseUrl: "http://localhost:4200"
+  configuration: |
+    {
+      "navbarColor": "red"
+    }
+  activation:
+    type: urlTree
+    matches: /
+standaloneInstallation:
+  hostApp: playground.book-store
+  configuration: |
+    {
+      "navbarColor": "green"
+    }
+  activation:
+    type: urlTree
+    matches: /

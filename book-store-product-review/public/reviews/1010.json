@@ -1,0 +1,30 @@
+{
+  "book_title": "Red, White & Royal Blue",
+  "id": 1010,
+  "reviews": [
+    {
+      "review_id": 1,
+      "reviewer_name": "Alice Smith",
+      "rating": 5,
+      "review_text": "Absolutely delightful! Casey McQuiston delivers a fresh and charming romance that will leave you grinning from ear to ear. The banter between Alex and Henry is electric, and the political backdrop adds an extra layer of intrigue."
+    },
+    {
+      "review_id": 2,
+      "reviewer_name": "John Doe",
+      "rating": 4,
+      "review_text": "A heartwarming love story with a unique twist. Casey McQuiston's writing is witty and engaging, and the chemistry between Alex and Henry is palpable. A perfect blend of romance, humor, and politics."
+    },
+    {
+      "review_id": 3,
+      "reviewer_name": "Emily Johnson",
+      "rating": 3,
+      "review_text": "Enjoyable, but not quite what I expected. While the premise was intriguing, I found some parts of the plot to be predictable. Nonetheless, the characters were endearing, and the romance was sweet."
+    },
+    {
+      "review_id": 4,
+      "reviewer_name": "David Brown",
+      "rating": 5,
+      "review_text": "A breath of fresh air! Red, White & Royal Blue is a joyous celebration of love and acceptance. Casey McQuiston's writing is sharp and funny, and the romance between Alex and Henry is beautifully developed. Highly recommend!"
+    }
+  ]
+}

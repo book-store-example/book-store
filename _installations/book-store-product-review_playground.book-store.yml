@@ -1,0 +1,10 @@
+kind: installation
+id: 65c6f2cd3248f156355f4469
+packageName: '@playground/book-store-product-review'
+packageTag: 1.0.0.f015e7c8
+projectDomain: playground.book-store
+configuration: '{}'
+enabled: true
+activation:
+  type: ant
+  matches: /books/*

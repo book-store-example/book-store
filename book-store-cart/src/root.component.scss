@@ -1,0 +1,10 @@
+.content {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.spacer {
+  display: flex;
+  flex: auto 1 1;
+}

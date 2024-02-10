@@ -1,0 +1,36 @@
+{
+  "book_title": "Big Little Lies",
+  "id": 1004,
+  "reviews": [
+    {
+      "review_id": 1,
+      "reviewer_name": "Emily Johnson",
+      "rating": 5,
+      "review_text": "Absolutely loved it! Liane Moriarty skillfully intertwines humor, mystery, and drama in this page-turner. The characters are relatable, the plot twists are unexpected, and the social commentary is thought-provoking. Couldn't put it down!"
+    },
+    {
+      "review_id": 2,
+      "reviewer_name": "Michael Smith",
+      "rating": 4,
+      "review_text": "A captivating read with well-developed characters and a compelling storyline. The exploration of friendship, secrets, and societal pressures kept me engaged throughout. Thoroughly enjoyed it!"
+    },
+    {
+      "review_id": 3,
+      "reviewer_name": "Sophia Martinez",
+      "rating": 3,
+      "review_text": "Enjoyable, but somewhat predictable. While the characters were interesting, the plot lacked depth in certain areas. The pacing felt uneven at times. Overall, a decent read."
+    },
+    {
+      "review_id": 4,
+      "reviewer_name": "Daniel Wilson",
+      "rating": 5,
+      "review_text": "Brilliantly written! Liane Moriarty's storytelling is gripping and immersive. The layers of intrigue and suspense kept me guessing until the very end. Highly recommend!"
+    },
+    {
+      "review_id": 5,
+      "reviewer_name": "Emma Thompson",
+      "rating": 4,
+      "review_text": "Engaging and entertaining! The multiple perspectives added depth to the narrative, and the themes explored are relevant and thought-provoking. Thoroughly enjoyed the twists and turns!"
+    }
+  ]
+}

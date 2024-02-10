@@ -1,0 +1,36 @@
+{
+  "book_title": "The Girl with the Dragon Tattoo",
+  "id": 1001,
+  "reviews": [
+    {
+      "review_id": 1,
+      "reviewer_name": "Alice Smith",
+      "rating": 5,
+      "review_text": "Absolutely gripping! The characters are well-developed, the plot twists keep you on the edge of your seat, and the writing style is engaging. Couldn't put it down!"
+    },
+    {
+      "review_id": 2,
+      "reviewer_name": "John Doe",
+      "rating": 4,
+      "review_text": "A thrilling ride from start to finish. The intricate plot kept me guessing until the very end. Lisbeth Salander is a fascinating character, and the Swedish setting adds to the atmosphere."
+    },
+    {
+      "review_id": 3,
+      "reviewer_name": "Emily Johnson",
+      "rating": 3,
+      "review_text": "Enjoyed the mystery aspect of the novel, but found some parts to be slow-paced. Overall, a decent read with a unique protagonist."
+    },
+    {
+      "review_id": 4,
+      "reviewer_name": "David Brown",
+      "rating": 5,
+      "review_text": "One of the best thrillers I've read in a long time. The suspense is relentless, and the portrayal of complex characters is masterful. Highly recommend!"
+    },
+    {
+      "review_id": 5,
+      "reviewer_name": "Sophia Martinez",
+      "rating": 2,
+      "review_text": "Disappointing. I expected more from all the hype surrounding this book. The plot felt disjointed, and the violence was gratuitous."
+    }
+  ]
+}

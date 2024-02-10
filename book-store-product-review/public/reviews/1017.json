@@ -1,0 +1,54 @@
+{
+  "book_title": "The Pillars of the Earth",
+  "id": 1017,
+  "reviews": [
+    {
+      "review_id": 1,
+      "reviewer_name": "Alice Smith",
+      "rating": 5,
+      "review_text": "An epic masterpiece! Ken Follett's 'The Pillars of the Earth' is a sweeping saga of ambition, betrayal, and redemption set against the backdrop of medieval England. The characters are richly drawn, the historical detail is meticulous, and the storytelling is utterly engrossing."
+    },
+    {
+      "review_id": 2,
+      "reviewer_name": "John Doe",
+      "rating": 4,
+      "review_text": "A gripping historical novel that captivates from beginning to end. 'The Pillars of the Earth' is a vividly imagined tale of love, power, and intrigue. Ken Follett's prose is immersive, and his characters leap off the page with depth and authenticity."
+    },
+    {
+      "review_id": 3,
+      "reviewer_name": "Emily Johnson",
+      "rating": 5,
+      "review_text": "Absolutely breathtaking! 'The Pillars of the Earth' is a masterpiece of historical fiction that transports you to another time and place. Ken Follett's storytelling is mesmerizing, weaving together multiple storylines with skill and precision."
+    },
+    {
+      "review_id": 4,
+      "reviewer_name": "David Brown",
+      "rating": 5,
+      "review_text": "A monumental achievement in historical fiction! 'The Pillars of the Earth' is a richly textured and immersive novel that brings the medieval world to vivid life. Ken Follett's characters are unforgettable, and his storytelling is spellbinding."
+    },
+    {
+      "review_id": 5,
+      "reviewer_name": "Sophia Martinez",
+      "rating": 4,
+      "review_text": "An engrossing and ambitious epic that spans generations. 'The Pillars of the Earth' is a captivating story of love, power, and betrayal set against the backdrop of medieval England. Ken Follett's prose is evocative, drawing you into the lives of his characters with skill and empathy."
+    },
+    {
+      "review_id": 6,
+      "reviewer_name": "Daniel Wilson",
+      "rating": 4,
+      "review_text": "A compelling and immersive journey through medieval Europe. 'The Pillars of the Earth' is a meticulously researched novel that captures the tumultuous events of the time with remarkable detail. Ken Follett's characters are vivid and authentic, making this a truly memorable read."
+    },
+    {
+      "review_id": 7,
+      "reviewer_name": "Emma Thompson",
+      "rating": 5,
+      "review_text": "A must-read for fans of historical fiction! 'The Pillars of the Earth' is an epic tale of love, ambition, and betrayal that will sweep you off your feet. Ken Follett's storytelling is masterful, drawing you into the lives of his characters with passion and intensity."
+    },
+    {
+      "review_id": 8,
+      "reviewer_name": "Michael Smith",
+      "rating": 5,
+      "review_text": "A true masterpiece of historical fiction! 'The Pillars of the Earth' is a sprawling epic that captures the essence of medieval life with breathtaking detail. Ken Follett's characters are vibrant and complex, and his storytelling is utterly compelling."
+    }
+  ]
+}

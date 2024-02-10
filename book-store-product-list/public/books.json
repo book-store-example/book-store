@@ -1,0 +1,204 @@
+{
+  "books": [
+    {
+      "id": 1001,
+      "price": 9.99,
+      "genre": "Mystery/Thriller",
+      "author": "Stieg Larsson",
+      "title": "The Girl with the Dragon Tattoo",
+      "description": "A gripping mystery that follows journalist Mikael Blomkvist and hacker Lisbeth Salander as they investigate a decades-old disappearance.",
+      "cover": "https://m.media-amazon.com/images/I/518UXjrLGGL.jpg",
+      "keywords": ["mystery", "journalist", "investigate", "disappearance"]
+    },
+    {
+      "id": 1002,
+      "price": 8.79,
+      "genre": "Mystery/Thriller",
+      "author": "Gillian Flynn",
+      "title": "Gone Girl",
+      "description": "A psychological thriller revolving around the mysterious disappearance of Amy Dunne and the subsequent media frenzy and suspicions surrounding her husband Nick.",
+      "cover": "https://m.media-amazon.com/images/I/41x6HtLdEhL.jpg",
+      "keywords": ["psychological", "disappearance", "media frenzy", "suspicions"]
+    },
+    {
+      "id": 1003,
+      "price": 8.99,
+      "genre": "Mystery/Thriller",
+      "author": "Dan Brown",
+      "title": "The Da Vinci Code",
+      "description": "A fast-paced mystery thriller where symbologist Robert Langdon unravels clues across Europe to solve a murder and uncover a centuries-old secret.",
+      "cover": "https://m.media-amazon.com/images/I/51riEVXta5L.jpg",
+      "keywords": ["mystery", "symbologist", "Europe", "murder", "centuries-old secret"]
+    },
+    {
+      "id": 1004,
+      "price": 7.99,
+      "genre": "Mystery/Thriller",
+      "author": "Liane Moriarty",
+      "title": "Big Little Lies",
+      "description": "A suspenseful novel set in a tranquil seaside town, where secrets and lies among a group of mothers lead to a tragic event.",
+      "cover": "https://m.media-amazon.com/images/I/51oEjWgMHuL.jpg",
+      "keywords": ["suspenseful", "seaside town", "secrets", "lies", "tragic event"]
+    },
+    {
+      "id": 1005,
+      "price": 11.99,
+      "genre": "Mystery/Thriller",
+      "author": "Alex Michaelides",
+      "title": "The Silent Patient",
+      "description": "A psychological thriller featuring a woman who hasn't spoken since she allegedly murdered her husband, and the psychotherapist determined to uncover the truth.",
+      "cover": "https://m.media-amazon.com/images/I/515SxVllQJS.jpg",
+      "keywords": ["psychological thriller", "woman", "mute", "murder", "psychotherapist"]
+    },
+    {
+      "id": 1006,
+      "price": 11.99,
+      "genre": "Romance",
+      "author": "Jane Austen",
+      "title": "Pride and Prejudice",
+      "description": "A classic romance novel that follows the tumultuous relationship between the independent Elizabeth Bennet and the proud Mr. Darcy in 19th-century England.",
+      "cover": "https://m.media-amazon.com/images/I/61otuS47knL.jpg",
+      "keywords": ["romance", "relationship", "independent", "pride", "19th-century England"]
+    },
+    {
+      "id": 1007,
+      "price": 12.49,
+      "genre": "Romance",
+      "author": "Diana Gabaldon",
+      "title": "Outlander",
+      "description": "A time-traveling romance saga that begins when Claire Randall, a WWII nurse, is transported from 1945 to 1743 Scotland, where she falls in love with a Highland warrior.",
+      "cover": "https://m.media-amazon.com/images/I/41vrVXwvLSL.jpg",
+      "keywords": ["time-traveling", "romance saga", "WWII nurse", "Scotland", "Highland warrior"]
+    },
+    {
+      "id": 1008,
+      "price": 12.49,
+      "genre": "Romance",
+      "author": "Jojo Moyes",
+      "title": "Me Before You",
+      "description": "A heartwarming and bittersweet love story between a quirky young woman named Louisa and a paralyzed man named Will, who teaches her about living life to the fullest.",
+      "cover": "https://m.media-amazon.com/images/I/41RcepPXgpL.jpg",
+      "keywords": ["heartwarming", "bittersweet", "love story", "paralyzed", "living life to the fullest"]
+    },
+    {
+      "id": 1009,
+      "price": 9.99,
+      "genre": "Romance",
+      "author": "Nicholas Sparks",
+      "title": "The Notebook",
+      "description": "An enduring love story between Noah and Allie, whose romance spans decades despite social differences and personal obstacles.",
+      "cover": "https://m.media-amazon.com/images/I/61XEadq7R9L.jpg",
+      "keywords": ["enduring love story", "romance", "span decades", "social differences", "personal obstacles"]
+    },
+    {
+      "id": 1010,
+      "price": 8.99,
+      "genre": "Romance",
+      "author": "Casey McQuiston",
+      "title": "Red, White & Royal Blue",
+      "description": "A contemporary romance novel featuring the unexpected love affair between the First Son of the United States and a British prince.",
+      "cover": "https://m.media-amazon.com/images/I/51Su7WOGTzL.jpg",
+      "keywords": ["contemporary romance", "unexpected love affair", "First Son of the United States", "British prince"]
+    },
+    {
+      "id": 1011,
+      "price": 6.99,
+      "genre": "Science Fiction",
+      "author": "Frank Herbert",
+      "title": "Dune",
+      "description": "A sweeping science fiction epic set in a distant future where noble houses battle for control over a desert planet called Arrakis, known for its valuable spice.",
+      "cover": "https://m.media-amazon.com/images/I/517+uE+Ek2L.jpg",
+      "keywords": ["sweeping", "science fiction epic", "distant future", "noble houses", "Arrakis"]
+    },
+    {
+      "id": 1012,
+      "price": 8.99,
+      "genre": "Science Fiction",
+      "author": "Andy Weir",
+      "title": "The Martian",
+      "description": "A gripping survival story about an astronaut stranded on Mars who must use his ingenuity and resourcefulness to stay alive while awaiting rescue.",
+      "cover": "https://m.media-amazon.com/images/I/414J3xG+7+L.jpg",
+      "keywords": ["gripping survival story", "astronaut", "Mars", "ingenuity", "resourcefulness"]
+    },
+    {
+      "id": 1013,
+      "price": 11.99,
+      "genre": "Science Fiction",
+      "author": "William Gibson",
+      "title": "Neuromancer",
+      "description": "A seminal cyberpunk novel that follows a washed-up computer hacker hired for a seemingly impossible heist in a dystopian future where cyberspace is a virtual reality.",
+      "cover": "https://m.media-amazon.com/images/I/51vkqHfvAyL.jpg",
+      "keywords": ["seminal cyberpunk novel", "computer hacker", "dystopian future", "cyberspace", "virtual reality"]
+    },
+    {
+      "id": 1014,
+      "price": 12.99,
+      "genre": "Science Fiction",
+      "author": "Orson Scott Card",
+      "title": "Ender's Game",
+      "description": "A military science fiction novel that follows gifted child strategist Ender Wiggin as he trains in a battle school to prepare for an impending alien invasion.",
+      "cover": "https://m.media-amazon.com/images/I/51hzQWwImUL.jpg",
+      "keywords": ["military science fiction", "gifted child strategist", "battle school", "alien invasion"]
+    },
+    {
+      "id": 1015,
+      "price": 6.75,
+      "genre": "Science Fiction",
+      "author": "Suzanne Collins",
+      "title": "The Hunger Games",
+      "description": "A dystopian novel set in a future society where teenagers are forced to participate in a televised fight to the death, as Katniss Everdeen fights for survival and rebellion.",
+      "cover": "https://m.media-amazon.com/images/I/51vOc7NtICL.jpg",
+      "keywords": ["dystopian", "future society", "teenagers", "televised fight", "survival", "rebellion"]
+    },
+    {
+      "id": 1016,
+      "price": 10.99,
+      "genre": "Historical Fiction",
+      "author": "Hilary Mantel",
+      "title": "Wolf Hall",
+      "description": "A historical fiction masterpiece that chronicles the rise to power of Thomas Cromwell in the court of King Henry VIII, filled with political intrigue and drama.",
+      "cover": "https://m.media-amazon.com/images/I/51Te6Cg2l7L.jpg",
+      "keywords": ["historical fiction masterpiece", "rise to power", "Thomas Cromwell", "political intrigue", "drama"]
+    },
+    {
+      "id": 1017,
+      "price": 7.99,
+      "genre": "Historical Fiction",
+      "author": "Ken Follett",
+      "title": "The Pillars of the Earth",
+      "description": "A sweeping historical epic set in 12th-century England, depicting the construction of a cathedral amidst political turmoil, love, and betrayal.",
+      "cover": "https://m.media-amazon.com/images/I/51dmIEgId2L.jpg",
+      "keywords": ["sweeping historical epic", "12th-century England", "construction of a cathedral", "political turmoil", "love", "betrayal"]
+    },
+    {
+      "id": 1018,
+      "price": 9.99,
+      "genre": "Historical Fiction",
+      "author": "Diana Gabaldon",
+      "title": "The Fiery Cross",
+      "description": "Part of the Outlander series, this historical fiction novel continues the adventures of Claire Randall and Jamie Fraser as they navigate the challenges of colonial America.",
+      "cover": "https://m.media-amazon.com/images/I/41+NLvrInrL.jpg",
+      "keywords": ["Outlander series", "historical fiction", "adventures", "Claire Randall", "Jamie Fraser", "colonial America"]
+    },
+    {
+      "id": 1019,
+      "price": 9.99,
+      "genre": "Historical Fiction",
+      "author": "Philippa Gregory",
+      "title": "The Other Boleyn Girl",
+      "description": "A captivating historical novel that tells the story of Mary Boleyn and her sister Anne, who vie for the affection of King Henry VIII amidst the intrigue of the Tudor court.",
+      "cover": "https://m.media-amazon.com/images/I/61On5CaLIJL.jpg",
+      "keywords": ["captivating historical novel", "Mary Boleyn", "Anne Boleyn", "King Henry VIII", "Tudor court"]
+    },
+    {
+      "id": 1020,
+      "price": 14.99,
+      "genre": "Historical Fiction",
+      "author": "Anthony Doerr",
+      "title": "All the Light We Cannot See",
+      "description": "Set during World War II, this historical fiction novel follows the intersecting lives of a blind French girl and a German soldier, highlighting the power of hope and resilience.",
+      "cover": "https://m.media-amazon.com/images/I/51c8HcK4DML.jpg",
+      "keywords": ["World War II", "intersecting lives", "blind French girl", "German soldier", "hope", "resilience"]
+    }
+  ]
+}

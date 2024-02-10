@@ -1,0 +1,36 @@
+{
+  "book_title": "The Da Vinci Code",
+  "id": 1003,
+  "reviews": [
+    {
+      "review_id": 1,
+      "reviewer_name": "Alice Smith",
+      "rating": 5,
+      "review_text": "Absolutely captivating! Dan Brown's storytelling prowess shines in this fast-paced thriller. The historical and religious elements add depth to the plot, and the twists and turns kept me guessing until the very end. A must-read!"
+    },
+    {
+      "review_id": 2,
+      "reviewer_name": "John Doe",
+      "rating": 4,
+      "review_text": "An intriguing blend of mystery, history, and conspiracy. The pacing is relentless, and the puzzle-solving aspect is incredibly engaging. While some of the theories presented are controversial, they certainly make for an interesting read."
+    },
+    {
+      "review_id": 3,
+      "reviewer_name": "Emily Johnson",
+      "rating": 3,
+      "review_text": "Found the premise fascinating, but the execution fell short for me. The prose felt clunky at times, and the characters lacked depth. However, the historical aspects were well-researched and kept me somewhat invested in the story."
+    },
+    {
+      "review_id": 4,
+      "reviewer_name": "David Brown",
+      "rating": 5,
+      "review_text": "A thrilling adventure that kept me on the edge of my seat from start to finish. Dan Brown's ability to blend fact with fiction is unparalleled. The Da Vinci Code is a masterpiece of suspense!"
+    },
+    {
+      "review_id": 5,
+      "reviewer_name": "Sophia Martinez",
+      "rating": 2,
+      "review_text": "Disappointing. The writing style is amateurish, and the plot is far-fetched. The characters are one-dimensional, and the so-called 'revelations' are nothing more than sensationalized gimmicks. Not worth the hype."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "book_title": "The Silent Patient",
+  "id": 1005,
+  "reviews": [
+    {
+      "review_id": 1,
+      "reviewer_name": "Emily Johnson",
+      "rating": 5,
+      "review_text": "Absolutely mesmerizing! Alex Michaelides crafts a psychological thriller that's impossible to put down. The plot twists are mind-bending, and the characters are deeply intriguing. A must-read for fans of the genre!"
+    },
+    {
+      "review_id": 2,
+      "reviewer_name": "David Smith",
+      "rating": 4,
+      "review_text": "A gripping page-turner with a jaw-dropping twist! The Silent Patient kept me guessing until the very end. The psychological depth of the characters and the atmospheric setting make for an intense reading experience."
+    },
+    {
+      "review_id": 3,
+      "reviewer_name": "Sophia Martinez",
+      "rating": 3,
+      "review_text": "Enjoyed the premise but found some aspects predictable. The writing style is engaging, and the pacing is solid, but the resolution felt a bit rushed. Nonetheless, an entertaining read overall."
+    },
+    {
+      "review_id": 4,
+      "reviewer_name": "Daniel Wilson",
+      "rating": 5,
+      "review_text": "Riveting and suspenseful! The Silent Patient is a masterclass in storytelling. The unreliable narrator adds an extra layer of intrigue, and the twist at the end left me speechless. Highly recommend!"
+    },
+    {
+      "review_id": 5,
+      "reviewer_name": "Emma Thompson",
+      "rating": 4,
+      "review_text": "Engrossing from start to finish! Alex Michaelides creates a chilling atmosphere that keeps you on the edge of your seat. The exploration of trauma and the complexity of human psyche make this a compelling read."
+    }
+  ]
+}

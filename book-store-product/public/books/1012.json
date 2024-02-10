@@ -1,0 +1,10 @@
+{
+  "id": 1012,
+  "price": 8.99,
+  "genre": "Science Fiction",
+  "author": "Andy Weir",
+  "title": "The Martian",
+  "description": "A gripping survival story about an astronaut stranded on Mars who must use his ingenuity and resourcefulness to stay alive while awaiting rescue.",
+  "cover": "https://m.media-amazon.com/images/I/414J3xG+7+L.jpg",
+  "keywords": ["gripping survival story", "astronaut", "Mars", "ingenuity", "resourcefulness"]
+}

@@ -1,0 +1,41 @@
+key: "0b5b3357d89a41949fe82c1acca62ec3"
+name: "from ./package.json"
+version: "from ./package.json"
+cover: null
+framework: react-17.0
+dist:
+  - type: "main"
+    path: "./dist/main.js"
+assets: "./dist/public"
+configSchema: |
+  {
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "type": "object",
+    "title": "ConfigurationSchema",
+    "properties": {},
+    "required": []
+  }
+hostMount: |
+  <html>
+  <head></head>
+  <body></body>
+  </html>
+localInstallation:
+  hostApp: playground.book-store
+  baseUrl: "http://localhost:8081"
+  configuration: |
+    {
+    "test":"1"
+    }
+  activation:
+    type: ant
+    matches: /books
+standaloneInstallation:
+  hostApp: playground.book-store
+  configuration: |
+    {
+    }
+  activation:
+    type: ant
+    matches: /books
+
